@@ -2,7 +2,7 @@
   "name": "neo-aurora-2025-theme",
   "displayName": "Neo Aurora 2025 Theme",
   "description": "A sophisticated modern dark theme designed for the future of coding.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },

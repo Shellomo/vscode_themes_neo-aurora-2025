@@ -2,6 +2,7 @@
 
 A sophisticated and modern dark theme for Visual Studio Code, designed for the future of coding. Neo Aurora 2025 combines carefully selected colors with optimal contrast to reduce eye strain during long coding sessions while maintaining excellent readability.
 
+
 ## 🎨 Color Palette
 
 - **Background**: Deep space black (#0D1117)
@@ -22,7 +23,7 @@ A sophisticated and modern dark theme for Visual Studio Code, designed for the f
 
 ## 📷 Screenshots
 
-[Place screenshots here]
+![Neo Aurora 2025 Theme](media/javascript.png)
 
 ## 🚀 Installation
 
